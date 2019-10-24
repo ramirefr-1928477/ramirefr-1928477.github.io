@@ -1,0 +1,32 @@
+#Header h1{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    border: Solid 2px black;
+    border-radius: 50px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    float: left;
+}
+
+#Content h1{
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#Centered {
+    position: absolute;
+    top: 70%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
